@@ -1,4 +1,4 @@
-# <ins>Welcome to the Data Analytics Project Repository!</ins>
+# <ins>Welcome to the Data Analytics Project Repository</ins>!
 This repository is a curated collection of data-driven projects aimed at exploring and analyzing real-world datasets. Through these projects, we dive into key trends, actionable insights, and meaningful patterns hidden in structured data using **SQL**, **Python**, and **Visualization tools**.
 
 ## Overview
