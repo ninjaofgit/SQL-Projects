@@ -1,1 +1,66 @@
+Brief Introduction:
+This project explores and analyzes a dataset containing information about various mobile phones. The dataset, stored in a CSV file, includes details such as phone name, brand, operating system type, price, storage capacity, and 5G availability. Through structured SQL queries, the project extracts meaningful insights to provide a comprehensive understanding of the mobile phone market.
 
+Dataset Overview:
+The dataset, `Mobile_Analysis.csv`, includes the following columns:
+- Phone Name: The model name of the mobile phone.
+- Brand: The manufacturer or brand of the mobile phone.
+- Price: The price of the mobile phone.
+- Internal Storage: The internal storage capacity of the mobile phone.
+- Operating System Type: The type of operating system (Android, iOS, etc.).
+- USB Type: The type of USB port used.
+- 5G Availability: Indicates whether the phone supports 5G.
+- Selfie Camera: Specifications of the front camera.
+- RAM Storage: The RAM capacity of the mobile phone.
+- Country of Origin: The country where the phone is manufactured.
+- Battery Capacity: The battery capacity of the mobile phone.
+- Price Range: The price category of the phone (e.g., 5,000-10,000).
+- Battery Capacity Range: The range of battery capacities.
+- Total Mobile: The count of this specific phone model in the dataset.
+
+Insights and Queries:
+1. Mobile Features and Price List
+Query: Display phone names and their respective prices.
+
+2. Five Most Expensive Phones
+Query: Identify the top 5 phones with the highest prices.
+
+3. Five Cheapest Phones
+Query: Identify the top 5 phones with the lowest prices.
+
+4. Top 5 Samsung Phones
+Query: List the top 5 Samsung phones with all features and prices.
+
+5. Top 5 High-Priced Android Phones
+Query: Identify the top 5 most expensive Android phones.
+
+6. Bottom 5 Low-Priced Android Phones
+Query: Identify the 5 cheapest Android phones.
+
+7. Top 5 High-Priced iOS Phones
+Query: Identify the 5 most expensive iOS phones.
+
+8. Bottom 5 Low-Priced iOS Phones
+Query: Identify the 5 cheapest iOS phones.
+
+9. 5G Phone Insights
+Query: Find all phones with 5G support and list the top 5 most expensive 5G phones.
+
+10. Total Price of All Mobiles by Brand
+Query: Calculate the total price of all phones grouped by brand.
+
+Visual Insights:
+The dataset is also visualized using the `MobileDataVisualisation.png` file, which includes key graphical representations:
+- Total Mobiles by Brand: A breakdown of mobile phone counts by brand.
+- Operating System Distribution: Insights into the operating systems used across phones.
+- 5G Availability: A summary of 5G-enabled versus non-5G phones.
+- Battery Capacity: Distribution of battery capacities across phone models.
+
+Technologies Used:
+- SQL: For data querying and analysis.
+- Python: For preprocessing the dataset and generating reports.
+- CSV File: The storage format for the dataset.
+- PowerBI Data Visualisation Tool: For graphical representation of key insights.
+
+Conclusion:
+This project demonstrates the power of SQL in analyzing structured datasets. By combining data exploration with visualization, it provides actionable insights into the mobile phone market which can guide stakeholders in making data-driven decisions.
