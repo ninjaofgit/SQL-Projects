@@ -19,7 +19,7 @@ The repository is designed to:
 - **<ins>Problem Solving</ins>:** Each analysis answers specific questions, demonstrating how data analytics can inform decision-making in practical scenarios.
 
 ## Technologies Used
-- ***SQL***: Core analytical tool for querying and transforming datasets.
-- ***Python***: Leveraged for data preprocessing and auxiliary tasks.
-- ***CSV Files***: Common format for input data in the projects.
-- ***PowerBI***: Used to create compelling graphics for insights.
+* ***SQL***: Core analytical tool for querying and transforming datasets.
+* ***Python***: Leveraged for data preprocessing and auxiliary tasks.
+* ***CSV Files***: Common format for input data in the projects.
+* ***PowerBI***: Used to create compelling graphics for insights.
